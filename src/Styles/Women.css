@@ -1,0 +1,24 @@
+.women_row{
+    background-color: aqua;
+    width: 100%;
+    height: 350px;
+    
+}
+
+li{
+list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.women_logo{
+    font-size: 13px;
+     
+}

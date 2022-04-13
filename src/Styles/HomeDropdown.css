@@ -1,0 +1,13 @@
+.img_dropdown{
+    width: 400px;
+    height: 300px;
+}
+
+.img_dropdown2{
+    width: 100%;
+    height: 380px;  
+    padding: 60px;
+    background-image: url("D:\eComm\ecomm\public\assests\images\cloth3.jpg");
+    background-size: cover;
+}
+

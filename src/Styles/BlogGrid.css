@@ -1,0 +1,17 @@
+.blogGrid_box{
+    background-color: brown;
+    height: 230px;
+}
+
+.blog_grid_img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 230px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.Blog_Grid_read_more{
+    font-weight: 500;
+    text-decoration: underline;
+}

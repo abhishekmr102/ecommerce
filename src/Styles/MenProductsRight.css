@@ -1,0 +1,12 @@
+.img_men_product{
+    width: 100%;
+    height: 300px;
+    background-image: url("../../public/assests/images/menproductImg1.webp");
+    background-size: cover;
+
+}
+.men_5,.men_new,.men_sale{
+    width: 36px;
+    height: 24px;
+ 
+}

@@ -1,0 +1,11 @@
+.image_section_box{
+    width: 190px;
+    height: 200px;
+    background-image: url('..//../public/assests/images/imgsde.jpg');
+    background-size: cover;
+}
+
+.img_section{
+    width: 190px;
+    height: 200px;
+}

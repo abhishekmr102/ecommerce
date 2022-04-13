@@ -1,0 +1,38 @@
+.box2{
+  
+   height: 500px;
+    background-image: url("..//../public/assests/images/bnnner4.webp");
+    background-size:cover;
+    background-repeat: no-repeat;  
+}
+
+/* .img_boxx{
+  
+    height: 500px;
+    background-image: url("..//../public/Assests/Images/cloth5.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;  
+} */
+
+.heading-h5{
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.heading-h1{
+font-size: 55px;
+font-weight: 400;
+}
+
+.p-tag{
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.btnn{
+    width: 150px;
+    height: 46px;
+    background-color:black;
+     margin-top: 20px;
+     border-radius: 7px;
+}

@@ -1,0 +1,48 @@
+.box-2{
+   /* background-image: url('D:\eComm\ecomm\public\assests\images\imgsde.jpg'); */
+   /* background-size: cover;
+   background-repeat: no-repeat; */
+   height: 400px;
+   width: 273px;
+  /* transition: 1.6s; */
+  /* background-color: aquamarine; */
+}
+
+.card_slider_img{
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+
+
+
+
+/* 
+.box-2:hover{
+  transform: scale(1.1);
+  z-index: 2;
+
+} */
+
+.card_slider_small_img_1{
+  width:50px;
+  height: 50px;
+  border-radius: 50%;
+  /* border:1px solid black; */
+  margin: 2px;
+  margin-top: 9px;
+  margin-bottom: 8px;
+  /* background-image: url('D:\eComm\ecomm\public\assests\images\imgsde.jpg'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+.card_slider_small_img_1:hover{
+    border:1px solid black;
+    cursor: pointer;
+}
+

@@ -1,0 +1,9 @@
+.right_top_img{
+    width: 200px;
+    height: 250px;
+    background-image: url("..//../public/assests/images/MenRightImg.webp");
+    background-size: cover;
+}
+.logo_men{
+    font-size: 13px;
+}

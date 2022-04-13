@@ -1,0 +1,25 @@
+.proDetail_accordian{
+    border: white;
+    color: rgb(97, 95, 95);
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.review_btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.pro_acc_img{
+    width: 100%;
+    height: 290px;
+    background-image: url("..//../public/assests/images/imgg.jpg");
+    background-size: cover;
+}
+
+.fit_and_style_div{
+    width: 100%;
+    height: 40px;
+  /* padding: 10px; */
+}

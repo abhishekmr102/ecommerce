@@ -1,0 +1,32 @@
+.email_heading{
+    font-size: 26px;
+    font-weight: 700;
+}
+
+
+
+.Email_input{
+width: 65%;
+height: 45px;
+border: 1px solid rgb(197, 195, 195);
+border-radius: 7px;
+}
+
+.email_btn{
+    width: 150px;
+    height: 45px;  
+    border: 1px solid rgb(197, 195, 195);
+   border-radius: 7px; 
+   background-color: black;
+   color: white;
+   font-weight: 600;
+}
+
+.email_section_row{
+    padding-top: 60px;
+}
+
+.hr_tag_email{
+    color: rgb(169, 169, 170);
+
+}

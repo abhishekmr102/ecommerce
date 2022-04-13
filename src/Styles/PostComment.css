@@ -1,0 +1,15 @@
+.name_input,.name_email{
+    height: 45px;
+  
+}
+
+.post_comment_btn{
+    width: 146px;
+    height: 47px;
+    padding: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    font-weight: 500;
+    font-size: 14px;
+}

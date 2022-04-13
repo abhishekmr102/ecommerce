@@ -1,0 +1,37 @@
+.img_men_products_left{
+    /* width: 100%; */
+    height: 300px;
+    background-image: url('../../public/assests/images/menproductImg1.webp');
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+.p_tag_men, .p_tag_men_new, .p_tag_men_sale{
+    width: 30px;
+    height: 24px;
+}
+.verticalLine{
+    border-left: 1px solid rgb(241, 229, 229);
+    height: 250px;
+}
+
+.btn_men_product{
+    border: 1px solid rgb(196, 188, 188);
+    cursor: pointer;
+    width: 130px;
+    height: 54px;
+}
+
+.Btn_men_product_addtoCart{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    font-size: 14px;
+}
+.logo_addtocart{
+    font-size: 18px;
+}

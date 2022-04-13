@@ -1,0 +1,78 @@
+.navlogo{
+    font-size: 38px;
+    font-weight: 500;
+    color: black;
+  
+   
+}
+.navlogo:hover{
+    text-decoration: none;
+}
+
+.nav-item{
+    font-weight: 500;
+    font-size:15px;
+     
+}
+
+.logo{
+    font-size: 25px;
+    color:black;
+}
+
+.logoZero{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+    padding: 1px 17px 25px 9px;
+    border-radius: 50%;
+  
+}
+
+.page_dropdown{
+    background-color: white;
+    width:200px;
+    height: 400px; 
+    padding-top: 19px;
+    border: none;
+}
+
+.blog_dropdown{
+  background-color: white;
+  width:180px;
+  height: 220px;
+  padding-top: 19px;
+  border: none;
+}
+
+.sale_dropdown{
+    background-color: white;
+    width:180px;
+    height: 220px;
+    padding-top: 19px;
+    border: none;  
+}
+
+.home_dropdown{
+    background-color: white;
+    width:200px;
+    height: 200px;
+    padding-top: 19px;
+    border: none;  
+    cursor: pointer;
+}
+
+.shop_dropdown{
+    background-color: white;
+    width:300px;
+    height: 320px;
+    padding-top: 19px;
+    border: none;    
+}
+
+.dropdown:hover .dropdown-menu{
+   display: block;
+}
+

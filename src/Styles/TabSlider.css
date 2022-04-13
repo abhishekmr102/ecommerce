@@ -1,0 +1,25 @@
+
+.tab_slider_container{
+    padding-top: 90px;
+}
+
+.tab_btn{
+    color: grey;
+    border: none;
+    font-weight: 600;
+    background-color: white;
+  
+}
+
+.tab_btn:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.btn-tab{
+    border: none;
+}
+
+.tab_btn_active{
+    text-decoration: underline;  
+}

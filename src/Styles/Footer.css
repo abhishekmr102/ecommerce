@@ -1,0 +1,39 @@
+.vendyfooter{
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.f_anchor{
+    text-decoration: none;
+    font-size: 14px;
+   font-weight: 500;
+   color:grey ;
+}
+
+.f_anchor:hover{
+    color: black;
+}
+
+.log_anchor{
+    font-size: 17px;
+}
+
+.f_logo{
+    color: grey;
+}
+
+.f_logo:hover{
+   color: black;
+}
+
+.f_email{
+    color:grey ;  
+}
+
+.f_email:hover{
+    color:black ;  
+}
+
+.hr_tag{
+    color: rgb(211, 203, 189);
+}

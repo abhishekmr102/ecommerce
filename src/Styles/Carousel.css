@@ -1,0 +1,88 @@
+.bann-img_1{
+    width: 100%;
+    height: 600px;
+    background-image: url('D:\eComm\ecomm\public\assests\images\bnner2.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bann-img_2{
+    width: 100%;
+    height: 600px;
+    background-image: url('D:\eComm\ecomm\public\assests\images\bnner3.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bann-img_3{
+    width: 100%;
+    height: 600px;
+    background-image: url('D:\eComm\ecomm\public\assests\images\bnner1.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.carousel-center{
+   margin-bottom: 166px;
+   z-index: 0;
+}
+
+.carousel-left{
+    margin-bottom: 130px;
+    margin-right: 690px;
+}
+
+.heading-center{
+    font-size: 60px;
+     font-weight: 400;
+}
+
+/* left css */
+.para-center{
+    font-size: 18px;
+}
+
+.collection{
+    font-size:19px;
+    font-weight: 700;
+    margin-right: 60px;
+    /* color: black; */
+}
+
+.heading-left1{
+    font-size: 44px;
+    font-weight: 600;
+}
+
+.para-left1{
+    font-size: 18px;
+}
+/* left css end */
+
+/* left 2nd css */
+.fashion{
+    font-size:19px;
+    font-weight: 600;
+    margin-right: 60px; 
+}
+
+.heading-left2{
+    font-size: 49px;
+    font-weight: 500;
+    margin-right: 90px; 
+}
+
+.p-left2{
+    font-size: 17px;
+}
+
+.btn-crsel{
+    width:160px;
+    height: 55px;
+    background-color: black;
+    border-radius: 9px;
+    border: none;
+    font-weight: 500;
+    margin-right: 50px;
+}

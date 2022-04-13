@@ -1,0 +1,21 @@
+.about_simple_img{
+    height: 500px;
+   background-image: url('../../public/assests/images/aboutSimpleImg.webp');
+   background-size: cover;
+   object-fit: cover;
+   background-repeat: no-repeat;
+
+}
+
+.about_simple_img_2{
+    height: 500px;
+    background-image: url('../../public/assests/images/aboutCreativeBnnr.webp');
+    background-size: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+   
+}
+
+.aboutsimple_ourstory_h1{
+    font-size: 55px;
+}

@@ -1,0 +1,41 @@
+
+.search_box{
+    width: 340px;
+    height: 45px;
+    background-color:rgba(238, 235, 235, 0.932);
+    border: 1px solid rgb(185, 180, 180);
+    border-radius: 5px;
+    
+}
+
+/* right div col-8 */
+.new_arrival{
+    width: 100%;
+    height: 300px;
+    background-image: url('D:\eComm\ecomm\public\assests\images\accmainImg.webp');
+    background-size: cover;
+}
+
+.new_arrival_head, .new_arrival_getupto,.new_arrival_ptag{
+    margin-left: 90px;
+}
+.new_arrival_head{
+    padding-top: 80px;
+    
+}
+
+.new_arrival_ptag a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+.product_form_select{
+   border:none;
+}
+
+.vertical_logo{
+    font-size: 23px;
+ 
+}
+

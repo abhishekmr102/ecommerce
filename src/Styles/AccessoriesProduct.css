@@ -1,0 +1,151 @@
+.accessories_div {
+    height: 500px;
+    width: 100%;
+    background-image: url("D:\eComm\ecomm\public\assests\images\cloth3.jpg");
+    background-size: cover;
+    position: relative;
+    cursor: pointer;
+}
+
+/* -----hover change image css start----- */
+.inner_img{
+    width: 100%; 
+    height: 500px;
+    background-image: url("D:\eComm\ecomm\public\assests\images\cloth5.jpg");
+    background-size: cover;
+    position:absolute;
+    top: 0;
+    left: 0;
+    display: none;
+ 
+
+}
+
+.accessories_div:hover .inner_img{
+  display: block;
+}
+/* -----hover change image css start----- */
+
+
+/* ----Div-2 second div accessoriesProducts--- */
+.accessories_div2 {
+    height: 500px;
+    width: 100%;
+    background-image: url("D:\eComm\ecomm\public\assests\images\shoes3.jpg");
+    background-size: cover;
+    position: relative;
+    cursor: pointer;
+}
+
+/* -----hover change image css start----- */
+.inner_img2{
+    width: 100%; 
+    height: 500px;
+    background-image: url("D:\eComm\ecomm\public\assests\images\shoes4.jpg");
+    background-size: cover;
+    position:absolute;
+    top: 0;
+    left: 0;
+    display: none;
+ 
+
+}
+
+.accessories_div2:hover .inner_img2{
+  display: block;
+}
+/* -----hover change image css start----- */
+
+
+/* ----Div-2 second div accessoriesProducts--- */
+/* -----for watch css---- */
+.accessories_div3 {
+    height: 500px;
+    width: 100%;
+    background-image: url("D:\eComm\ecomm\public\assests\images\watch2.jpg");
+    background-size: cover;
+    position: relative;
+    cursor: pointer;
+}
+
+/* -----hover change image css start----- */
+.inner_img3{
+    width: 100%; 
+    height: 500px;
+    background-image: url("D:\eComm\ecomm\public\assests\images\watch3.jpg");
+    background-size: cover;
+    position:absolute;
+    top: 0;
+    left: 0;
+    display: none;
+ 
+
+}
+
+.accessories_div3:hover .inner_img3{
+  display: block;
+}
+/* -----hover change image css start----- */
+
+
+
+.access_new{
+    width:40px;
+    height: 25px;
+   
+}
+
+.heart_logo{
+    font-size: 28px;
+}
+
+.Link_details{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* image change on hover effect */
+/* jisme me change krna ho usme position:relative kr denge  */
+/* 
+.inner_img{
+    width: 100%; 
+    position:absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    background-image: url("..//../Assests/Images/cloth2.jpg");
+    background-size: cover;
+
+}
+
+.accessories_div:hover .inner_img{
+  display: block;
+} */

@@ -1,0 +1,38 @@
+/* .container{
+    background-color: rgb(224, 167, 92);
+    width: 100%;
+    height: 500px;
+} */
+
+.selected{
+    background-color: rgb(147, 223, 147);
+    height: 300px;
+    width: 400px;
+    border: 4px solid rgb(224, 148, 148);
+    margin-left: 320px;
+   
+}
+
+/* .img{
+    display: block;
+    cursor: pointer;
+} */
+
+.imgContainter{
+    width: 100%;
+    height: 200px;
+    /* background-color: darkgoldenrod; */
+    display: flex;
+   /* margin-left: 320px; */
+   justify-content: space-around;
+    /* flex-wrap: wrap; */
+    padding: 40px 0 0 0;
+}
+
+.imgContainter img{
+    width: 100px;
+    height: 130px;
+    background-color: aqua;
+    margin: 20px 0;
+    cursor: pointer;
+}

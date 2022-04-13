@@ -1,0 +1,26 @@
+.accordian_btn{
+border: white;
+color: black;
+font-size: 16px;
+font-weight: 700;
+   
+}
+
+.accordian_anchor{
+    text-decoration: none;
+    color: rgb(156, 154, 154);
+}
+
+.accordian_anchor:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.accordian_acce{
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+}
+.accordian_acce:hover{
+    color:black;
+}

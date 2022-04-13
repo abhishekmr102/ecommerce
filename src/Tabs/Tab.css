@@ -1,0 +1,45 @@
+.tabs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-top: 80px;
+}
+
+.tab_head{
+    background-color: white;
+    padding: 20px;
+    cursor: pointer;
+
+}
+
+.tab_list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.activee{
+    background-color:rgb(185, 179, 179);
+    color: black;
+    cursor: pointer;
+}
+
+.tab_contant{
+    margin-top: 30px;
+  
+    /* background-color: coral; */
+}
+
+.content_active{
+    background-color:rgb(206, 85, 85);
+    color: black; 
+}
+
+.d-none{
+    display: none;
+}
+.d-block{
+    display: block;
+}

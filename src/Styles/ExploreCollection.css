@@ -1,0 +1,38 @@
+.collection_div{
+    height: 600px;
+}
+
+.collection_div_center1{
+    height: 500px;
+}
+
+
+.collection_Img1{
+    height: 450px;
+    width: 100%;
+    background-image: url('../../public/assests/images/collectionimg3.webp');
+    background-size: cover;
+}
+.collection_Img1:hover{
+    opacity: 0.8;
+}
+
+.collection_img_center1{
+    height: 500px;
+    background-image: url('../../public/assests/images/collectionImg2.webp');
+    background-size: cover;
+}
+.collection_img_center1:hover{
+    opacity: 0.8;
+}
+
+.collection_img3{
+    height: 450px;
+    background-image: url('../../public/assests/images/collectionImg1.webp');
+    background-size: cover;
+}
+.collection_img3:hover{
+    opacity: 0.8;
+}
+
+

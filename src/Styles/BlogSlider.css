@@ -1,0 +1,64 @@
+
+
+.blog_img_div{
+   /* width: 300px; */
+    height: 260px;
+}
+.blog_img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* background-image: url('/public/Assests/Images/blogImg3.webp'); */
+    /* background-size: cover; */
+
+}
+
+
+.text-blog{
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 20px;
+  
+}
+.text-span{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .blog_img_2{
+    width: 100%;
+    height: 230px;
+    background-image: url('../../public/Assests/Images/blogmg1.webp');
+    background-size: cover;
+}
+
+.blog_img_3{
+    width: 100%;
+    height: 230px;
+    background-image: url('../../public/Assests/Images/blogImg2.webp');
+    background-size: cover;
+} */
